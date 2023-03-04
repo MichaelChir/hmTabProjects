@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    height: 80px;
+    background-color: white;
+    
+    
+}
+ul {
+    text-align: center;
+    font-size: 30px;
+}
+h1,h2 {
+    text-align: center;
+    font-size: 60px;
+}
+main {
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+table {
+    border: 1px solid black;
+}
+td, th {
+    font-size: 40px;
+    border: 1px solid black;
+    padding: 10px 10px
+}
